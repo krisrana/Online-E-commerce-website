@@ -4,7 +4,7 @@ This project is for educational purpose only and to demonstrate skill.
 
 - The website is an e-commerce website to sell products online. 
 - Built using PHP as the core language with HTML, CSS, and Bootstrap framework as supporting components.
--	Front-end components were designed and developed to create an user interactive, responsive website with HTML and Bootstrap framework.
+-	Front-end components were designed and developed to create a user interactive, responsive website with HTML and Bootstrap framework.
 -	Back-end components was designed and developed using PHP.
 - Integration of data from database was done incorporating SQL query via PHP into the code. 
 - Each user logined in or browing wesite has a unique sessions, handled by session handling functionality in PHP.
