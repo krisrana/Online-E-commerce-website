@@ -3,9 +3,9 @@
     <!-- Footer -->
     <div class="container">
         <div class="row">
-            <p style="font-size:20px;" class="text-center"> All images are cited.</p>
+            <p style="font-size:20px;" class="text-center"> All images are cited.<b> This website is for Educational purposes.</b> </p>
             <div class="col-lg-4 col-md-4 col-sm-4">
-                <p style="font-size:20px; color:#288997;" class="text-center fa fa-copyright"> Capsule Corp 2021</p>
+                <p style="font-size:20px; color:#288997;" class="text-center fa fa-copyright"> Capsule Corp 2022</p>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-4 align-self-center">
                 <p class="text-center">
@@ -26,10 +26,10 @@
     <!-- /.container -->
 
     <!-- jQuery -->
-    <script src="js/jquery.js"></script>
+    <script src="./js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
 
 </body>
 </html>
