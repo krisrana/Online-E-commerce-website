@@ -25,6 +25,11 @@
 
                 </div>
                 </div>
+                <div>
+                <center>
+                <h3><b>This is a Dummy E-commerce Website meant to show Skills</b></h3>
+                </center>
+                </div>
                 <div class="row">
                             <div class="col-md-9">
                                 <h3>Newest Products</h3>
