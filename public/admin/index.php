@@ -23,7 +23,7 @@
 
                 <?php
                     
-                    if($_SERVER['REQUEST_URI'] == "/project%20415/public/admin/" || $_SERVER['REQUEST_URI'] == "/project%20415/public/admin/index.php"){
+                    if($_SERVER['REQUEST_URI'] == "/public/admin/" || $_SERVER['REQUEST_URI'] == "/public/admin/index.php"){
 
                         include(TEMPLATE_BACK . DS . "admin.php");
                     }
